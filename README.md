@@ -26,3 +26,10 @@ Feel free to edit the theme to your needs as well.
 
 ## AnalogPhosphor OG
 ![](previewOG.png)
+
+## Boot Logo
+![](skin/extra/bootScreen.png)
+## Power Off
+![](skin/extra/Screen_Off.png)
+## Save and Power Off
+![](skin/extra/Screen_Off_Save.png)
