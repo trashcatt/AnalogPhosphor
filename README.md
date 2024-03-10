@@ -28,6 +28,10 @@ Sorry if this doensn't work for you, there just isn't any way around it.
 ## Save and Power Off
 ![](AnalogPhosphor/skin/extra/Screen_Off_Save.png)
 
+## A couple more screens
+![](screenshots/01.png)
+![](screenshots/02.png)
+
 ## Included PSD
 I've included the PSD file that I've been working off of. Feel free to play around with it, mod it, and release it. Just please credit everyone. :D
 
