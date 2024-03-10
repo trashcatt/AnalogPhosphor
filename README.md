@@ -32,6 +32,6 @@ Feel free to edit the theme to your needs as well.
 
 
 # Credits
-The main icons are from [Phosphor Icons](https://github.com/phosphor-icons/homepage)
-Console icons are from [openFPGA](https://github.com/spiritualized1997/openFPGA-Platform-Art-Set). (Originally made for the Analogue Pocket)
+The main icons are from [Phosphor Icons](https://github.com/phosphor-icons/homepage)  
+Console icons are from [openFPGA](https://github.com/spiritualized1997/openFPGA-Platform-Art-Set). (Originally made for the Analogue Pocket)  
 The font is [Inter](https://github.com/rsms/inter)
