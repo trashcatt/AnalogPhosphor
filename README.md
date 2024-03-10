@@ -12,13 +12,12 @@ This is a very early work in progress. As such there are some images from other 
 
 ## AnalogPhosphor
 ![](preview.png)
+# IMPORTANT!
 
-### Note:
-Normal AnalogPhosphor only works if you don't have "Recents" and "Expert" enabled.  
-I'm working on a version with all the icons enabled but the images are shifting weird currently.  
-If you need a version with these options enabled, AnalogPhosphor OG has evrything you need, just with the default Miyoo Mini homescreen spacing.  
+This theme ***WILL NOT*** work with the Recents and Expert folders enabled. The images will shift weird and not line up correctly. This seems to be a problem with the Miyoo Mini firmware and I haven't been able to find a way around that.  
+If you use Recents or Expert folders on your device, you **CAN** use AnalogPhosphorOG as this theme uses the original Miyoo Mini Homepage icon sizes.  
+Sorry if this doensn't work for you, there just isn't any way around it.
 
-Feel free to edit the theme to your needs as well. 
 
 ## AnalogPhosphor OG
 ![](previewOG.png)
