@@ -12,6 +12,9 @@ This is a very early work in progress. As such there are some images from other 
 
 ## AnalogPhosphor
 ![](preview.png)
+
+## AnalogPhosphor (Alt Icon)
+![](AnalogPhosphor Alt/preview.png)
 # IMPORTANT!
 
 This theme ***WILL NOT*** work with the Recents and Expert folders enabled. The images will shift weird and not line up correctly. This seems to be a problem with the Miyoo Mini firmware and I haven't been able to find a way around that.  
