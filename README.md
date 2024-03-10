@@ -4,10 +4,6 @@ A theme for Onion on the Miyoo Mini (+)
 ## Why
 I wanted a really minimal theme and there wasn't really one that was perfect for me. And there still isn't. I'm a cronic theme switcher, but I figured I'd give back to the community that has made so many beautiful themes.
 
-## Icons
-The main icons for this theme are from [Phosphor Icons](https://phosphoricons.com/). A beautiful opensource icon set.  
-The console icons I stole from [Shallot](https://github.com/OnionUI/Themes/tree/main?tab=readme-ov-file#shallot-by-cyberbellum) by Cyberbellum
-
 ## Included PSD
 I've included the PSD file that I've been working off of. Feel free to play around with it, mod it, and release it. Just please credit everyone. :D
 
@@ -33,3 +29,9 @@ Feel free to edit the theme to your needs as well.
 ![](AnalogPhosphor/skin/extra/Screen_Off.png)
 ## Save and Power Off
 ![](AnalogPhosphor/skin/extra/Screen_Off_Save.png)
+
+
+# Credits
+The main icons are from [Phosphor Icons](https://github.com/phosphor-icons/homepage)
+Console icons are from [openFPGA](https://github.com/spiritualized1997/openFPGA-Platform-Art-Set). (Originally made for the Analogue Pocket)
+The font is [Inter](https://github.com/rsms/inter)
