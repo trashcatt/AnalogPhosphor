@@ -17,8 +17,8 @@ This is a very early work in progress. As such there are some images from other 
 ![](previewALT.png)
 # IMPORTANT!
 
-This theme ***WILL NOT*** work with the Recents and Expert folders enabled. The images will shift weird and not line up correctly. This seems to be a problem with the Miyoo Mini firmware and I haven't been able to find a way around that.  
-If you use Recents or Expert folders on your device, you **CAN** use AnalogPhosphorOG as this theme uses the original Miyoo Mini Homepage icon sizes.  
+This theme ***WILL NOT*** work with the Recent and Expert folders enabled. The images will shift weird and not line up correctly. This seems to be a problem with the Miyoo Mini firmware and I haven't been able to find a way around that.  
+If you use Recent or Expert folders on your device, you **CAN** use AnalogPhosphorOG as this theme uses the original Miyoo Mini Homepage icon sizes.  
 Sorry if this doensn't work for you, there just isn't any way around it.
 
 
